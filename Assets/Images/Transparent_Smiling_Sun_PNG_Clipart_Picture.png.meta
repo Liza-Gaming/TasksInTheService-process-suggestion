@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Transparent_Smiling_Sun_PNG_Clipart_Picture_0: 1746775419976891557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

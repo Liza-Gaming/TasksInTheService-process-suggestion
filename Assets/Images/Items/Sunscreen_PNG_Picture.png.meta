@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sunscreen_PNG_Picture_0: -992509450475988237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
